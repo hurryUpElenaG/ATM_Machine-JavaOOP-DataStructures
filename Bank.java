@@ -62,7 +62,7 @@ public class Bank {
 	
 	
 	/*if (id.equals("003457001") && pw.equals("1290")) {
-		String name = "Rakesh Patil";
+		String name = "Elena Georgievska";
 		String acctype = "Savings Account";
 		bal = 115000;
 		System.out.println("\nName: " + name + "\nAccount Type: " + acctype + "\nBalance: " + bal);*/
